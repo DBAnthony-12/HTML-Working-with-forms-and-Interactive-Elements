@@ -3,7 +3,7 @@ Working with forms and interactive elements in web development involves creating
 
 Basic form elements:
 ---------------------------------------------------------------------
-	Basic form elements include <input>, <textarea>, <select> and <button> which allows the user input text, make selections and submit data.
+Basic form elements include <input>, <textarea>, <select> and <button> which allows the user input text, make selections and submit data.
 Each form element has a different attributes and behaviors for collecting specific data types of input such as text, numbers, dates, checkboxes, radio buttons and dropdown selections. 
 
 Styling forms:
